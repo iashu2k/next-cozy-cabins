@@ -1,3 +1,10 @@
+# The Cozy Cabins - Website
+
+- Framework - Next.js
+- UI State Management - Context API
+- DB / API - supabae
+- Styling - Tailwind CSS
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
